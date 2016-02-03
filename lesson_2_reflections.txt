@@ -1,0 +1,15 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A .git file is created. This is neccessary, if I want to start using git
+ for files in the current directory.
+
+
+How is the staging area different from the working directory and the
+ repository? What value do you think it offers?
+
+The staging area might not be directly linked to the computer, in the way
+ that the directory is. That is to say, that the staging area is in a
+ directory. The repository is where things from the working directory go,
+ via the staging area.
+
+
