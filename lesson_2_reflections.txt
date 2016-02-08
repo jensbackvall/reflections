@@ -13,3 +13,19 @@ The staging area might not be directly linked to the computer, in the way
  via the staging area.
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can make sure that I add only one change to be commited. Then I use the git status command to make sure that only one file is in the staging area, ready for commit, before I commit.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If I wnat to try something new or completely different, without changing the master branch, it can be good to work on a different line of thinking and coding, without having to revert to earlier commits to have a working version of the code.
+This video from the course tells it in a great way: https://www.udacity.com/course/viewer#!/c-ud775/l-2969618657/m-2955118962
+
+
+How do the diagrams help you visualize the branch structure?
+
+I can see exactly where I have deviated from the Master (or other current) branch. This may explain to me why I can't access or see a change I have commited, if I am on another branch or if the commit was made in the middle of a branch, so that it doesn't affect the most recent commit at the very end of that branch.
+
+
