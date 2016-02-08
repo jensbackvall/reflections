@@ -12,3 +12,16 @@ If you are collaborating with someone, it might not be a great idea to automatic
 their work onto your machine. Rather, deciding when to pull after having talked things
 through with your collaborators would probably be a wiser choice.
 
+
+Describe the differences between forks, clones, and branches. When would you use one
+ instead of another?
+
+A clone is a copy of a repository, either from a remote location (like GitHub) or from
+ your own computer. This can used to work on a new version of something without creating
+  a branch, or just because you want a copy of it for some other reason.
+A Branch is a new section of a repository that diverges from the master branch. This could
+ be for trying out new features, changing the language etc.
+A fork is basically a clone, but it only exists on GitHub and for you to work on the fork on
+your own machine, you need to clone the fork that you have created on GitHub.
+
+
