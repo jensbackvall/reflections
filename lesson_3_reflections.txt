@@ -5,3 +5,10 @@ the files from wherever they are. It could also serve as a backup, in case your 
 was is stolen, broken or in incapacitized in any way.
 
 
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+If you are collaborating with someone, it might not be a great idea to automatically pull
+their work onto your machine. Rather, deciding when to pull after having talked things
+through with your collaborators would probably be a wiser choice.
+
