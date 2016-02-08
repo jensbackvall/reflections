@@ -29,3 +29,18 @@ How do the diagrams help you visualize the branch structure?
 I can see exactly where I have deviated from the Master (or other current) branch. This may explain to me why I can't access or see a change I have commited, if I am on another branch or if the commit was made in the middle of a branch, so that it doesn't affect the most recent commit at the very end of that branch.
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The current, functional changes of the newest file version in each branch are used
+and we get a new file at the top of the merged branch with functionality from both
+branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+If I always had to merge manually, it would be much more time-consuming. On the other hand
+I would have 100% control and have a hands-on way of working which I don't have completely with
+automatic merging.
+
+
+
