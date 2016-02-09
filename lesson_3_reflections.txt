@@ -32,3 +32,15 @@ known version of the remote, so that you can compare it to an online version upd
 someone else.
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what
+ would be harder?
+
+This is a big question. Comparing changes that I myself and one or more collaborators have
+made would possibly take a lot of time. We might have to mark each change manually and send
+ files to each other with notations on which lines to check out for new changes. Seeing Git
+ do this automatically makes using Git seem like a very wise choice.
+If I did not use Git and GitHub, I wouldn't need all the "git add" and "git commit", but since
+ this isn't really a big bother, using the litle extra time it takes (compared to just saving)
+ seem like it is worth it.
+
+
