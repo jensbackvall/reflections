@@ -25,3 +25,10 @@ A fork is basically a clone, but it only exists on GitHub and for you to work on
 your own machine, you need to clone the fork that you have created on GitHub.
 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you are collaborating with someone else, it is good to be able to check out your last 
+known version of the remote, so that you can compare it to an online version updated by
+someone else.
+
+
