@@ -44,3 +44,13 @@ If I did not use Git and GitHub, I wouldn't need all the "git add" and "git comm
  seem like it is worth it.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What
+ benefits does each approach have?
+
+Working directly in master is simpler and faster, but makes it difficult or impossible to work 
+alongside other people, if everyone keeps updating master, since this creates possible conflicts 
+too often. Working on separate branches allows you to work on different aspects and different
+functionality on parallel tracks that can later be merged if all changes are wanted on the master
+branch.
+
+
